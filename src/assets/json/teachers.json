@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "teacher_id": "PRE1234",
+        "teacher_name": "Nathan Humphries",
+        "image": "avatar-11.jpg",
+        "class": "10",
+        "gender": "Male",
+        "subject": "Biology",
+        "section": "A",
+        "mobile_number": "077 3499 9959",
+        "address": "86 Lamphey Road, Thelnetham" 
+    },
+    {
+        "id": 2,
+        "teacher_id": "PRE1434",
+        "teacher_name": "Vincent",
+        "image": "avatar-08.jpg",
+        "class": "10",
+        "gender": "Male",
+        "subject": "Mathematics",
+        "section": "C",
+        "mobile_number": "402 221 7523",
+        "address": "3979  Ashwood Drive, Omaha" 
+    },
+    {
+        "id": 3,
+        "teacher_id": "PRE1534",
+        "teacher_name": "Lois A",
+        "image": "avatar-06.jpg",
+        "class": "10",
+        "gender": "Female",
+        "subject": "English",
+        "section": "C",
+        "mobile_number": "413 289 1314",
+        "address": "2844 Leverton Cove Road, Palmer" 
+    },
+    {
+        "id": 4,
+        "teacher_id": "PRE2143",
+        "teacher_name": "Levell Scott",
+        "image": "avatar-04.jpg",
+        "class": "10",
+        "gender": "Male",
+        "subject": "Science",
+        "section": " B",
+        "mobile_number": "026 7318 4366",
+        "address": "P.O. Box: 41, Gaborone"
+    },
+    {
+        "id": 5,
+        "teacher_id": "PRE2153",
+        "teacher_name": "Calvin",
+        "image": "avatar-07.jpg",
+        "class": "9",
+        "gender": "Male",
+        "subject": "Mathematics",
+        "section": "C",
+        "mobile_number": "701 753 3810",
+        "address": "1900  Hidden Meadow Drive, Crete"
+    },
+    {
+        "id": 6,
+        "teacher_id": "PRE2209",
+        "teacher_name": "Aaliyah",
+        "image": "avatar-02.jpg",
+        "class": "10",
+        "gender": "Female",
+        "subject": "Mathematics",
+        "section": "A",
+        "mobile_number": "097 3584 5870",
+        "address": "911 Deer Ridge Drive,USA"
+    },
+    {
+        "id": 7,
+        "teacher_id": "PRE2213",
+        "teacher_name": "Malynne",
+        "image": "avatar-03.jpg",
+        "class": "8",
+        "gender": "Female",
+        "subject": "Physics",
+        "section": "A",
+        "mobile_number": "242 362 3100",
+        "address": "Bacardi Rd P.O. Box N-4880, New Providence"
+    },
+    {
+        "id": 8,
+        "teacher_id": "PRE2345",
+        "teacher_name": "Kozma  Tatari",
+        "image": "avatar-09.jpg",
+        "class": "9",
+        "gender": "Female",
+        "subject": "Science",
+        "section": "A",
+        "mobile_number": "04 2239 968",
+        "address": "Rruga E Kavajes, Condor Center, Tirana"
+    },
+    {
+        "id": 9,
+        "teacher_id": "PRE2365",
+        "teacher_name": "John Chambers",
+        "image": "avatar-10.jpg",
+        "class": "11",
+        "gender": "Male",
+        "subject": "Botony",
+        "section": "B",
+        "mobile_number": "870 663 2334",
+        "address": "4667 Sunset Drive, Pine Bluff"
+    },
+    {
+        "id": 10,
+        "teacher_id": "PRE2431",
+        "teacher_name": "Minnie",
+        "image": "avatar-05.jpg",
+        "class": "11",
+        "gender": "Male",
+        "subject": "History",
+        "section": "C",
+        "mobile_number": "952 512 4909",
+        "address": "4771  Oral Lake Road, Golden Valley"
+    }
+]

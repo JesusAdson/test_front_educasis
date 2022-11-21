@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "fee_id": "PRE1234",
+        "fees_name": "Class Test Fees",
+        "class": "5",
+        "Amount": "$242",
+        "start_date": "23 Apr 2020",
+        "end_date": "28 Apr 2020"
+    },
+    {
+        "id": 2,
+        "fee_id": "PRE1434",
+        "fees_name": "Sports Day Fees",
+        "class": "6",
+        "Amount": "$341",
+        "start_date": "23 Apr 2020",
+        "end_date": "28 Apr 2020"
+    },
+    {
+        "id": 3,
+        "fee_id": "PRE1534",
+        "fees_name": "Exam Fees",
+        "class": "7",
+        "Amount": "$265",
+        "start_date": "23 Apr 2020",
+        "end_date": "28 Apr 2020"
+    },
+    {
+        "id": 4,
+        "fee_id": "PRE2143",
+        "fees_name": "Exam Fees",
+        "class": "9",
+        "Amount": "$545",
+        "start_date": "23 Apr 2020",
+        "end_date": "28 Apr 2020"
+    },
+    {
+        "id": 5,
+        "fee_id": "PRE2153",
+        "fees_name": "Sports Day Fees",
+        "class": "2",
+        "Amount": "$334",
+        "start_date": "23 Apr 2020",
+        "end_date": "28 Apr 2020"
+    },
+    {
+        "id": 6,
+        "fee_id": "PRE2209",
+        "fees_name": "Exam Fees",
+        "class": "10",
+        "Amount": "$345",
+        "start_date": "23 Apr 2020",
+        "end_date": "28 Apr 2020"
+    },
+    {
+        "id": 7,
+        "fee_id": "PRE2213",
+        "fees_name": "Exam Fees",
+        "class": "1",
+        "Amount": "$255",
+        "start_date": "23 Apr 2020",
+        "end_date": "28 Apr 2020"
+    },
+    {
+        "id": 8,
+        "fee_id": "PRE2345",
+        "fees_name": "Exam Fees",
+        "class": "12",
+        "Amount": "$365",
+        "start_date": "23 Apr 2020",
+        "end_date": "28 Apr 2020"
+    },
+    {
+        "id": 9,
+        "fee_id": "PRE2365",
+        "fees_name": "Annual Day Fees",
+        "class": "11",
+        "Amount": "$83",
+        "start_date": "23 Apr 2020",
+        "end_date": "28 Apr 2020"
+    },
+    {
+        "id": 10,
+        "fee_id": "PRE2431",
+        "fees_name": "Sports Day Fees",
+        "class": "8",
+        "Amount": "$234",
+        "start_date": "23 Apr 2020",
+        "end_date": "28 Apr 2020"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "department_id": "PRE1534",
+        "department_name": "MCA",
+        "hod": "Lois A",
+        "started_year": "1992",
+        "no_of_students": "200"
+    },
+    {
+        "id": 2,
+        "department_id": "PRE2143",
+        "department_name": "Electrical Engg",
+        "hod": "Levell Scott",
+        "started_year": "1994",
+        "no_of_students": "163"
+    },
+    {
+        "id": 3,
+        "department_id": "PRE2153",
+        "department_name": "BCA",
+        "hod": "Calvin",
+        "started_year": "1992",
+        "no_of_students": "152"
+    },
+    {
+        "id": 4,
+        "department_id": "PRE2209",
+        "department_name": "Computer Science Engg",
+        "hod": "Aaliyah",
+        "started_year": "1995",
+        "no_of_students": "180"
+    },
+    {
+        "id": 5,
+        "department_id": "PRE2213",
+        "department_name": "Mechanical Engg",
+        "hod": "Malynne",
+        "started_year": "1999",
+        "no_of_students": "240"
+    },
+    {
+        "id": 6,
+        "department_id": "PRE2431",
+        "department_name": "Civil Engg",
+        "hod": "Minnie",
+        "started_year": "2000",
+        "no_of_students": "195"
+    }
+]

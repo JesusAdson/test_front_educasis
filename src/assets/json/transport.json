@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "route_name": "New Cross",
+        "vehicle_number": "TN 43 AS 5263",
+        "driver_name": "Steve",
+        "driver_license": "REDH968532",
+        "contact_number": "+91 8974158962",
+        "driver_address": "152, South Pole, 2nd Street, 3rd Cross"
+    },
+    {
+        "id": 2,
+        "route_name": "North Pole",
+        "vehicle_number": "TN 34 DB 5847",
+        "driver_name": "Akbar",
+        "driver_license": "RGTH958932",
+        "contact_number": "+91 8596841252",
+        "driver_address": "253, 2nd Street, 3rd Crosst"
+    },
+    {
+        "id": 3,
+        "route_name": "South Wales",
+        "vehicle_number": "TN 34 AK 6789",
+        "driver_name": "Joseph",
+        "driver_license": "DLFH985632",
+        "contact_number": "+91 9658741526",
+        "driver_address": "741, East Road, 2nd Street"
+    }
+]

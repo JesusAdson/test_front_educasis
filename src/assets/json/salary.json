@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "salary_id": "PRE1234",
+        "name": "Nathan Humphries",
+        "image": "avatar-11.jpg",
+        "gender": "Male",
+        "joining_date": "17 Nov 2020",
+        "amount": "$278",
+        "status": "Paid"
+    },
+    {
+        "id": 2,
+        "salary_id": "PRE1252",
+        "name": "Joe Kelley",
+        "image": "avatar-07.jpg",
+        "gender": "Female",
+        "joining_date": "17 Oct 2020",
+        "amount": "$237",
+        "status": "Paid"
+    },
+    {
+        "id": 3,
+        "salary_id": "PRE1434",
+        "name": "Vincent",
+        "image": "avatar-08.jpg",
+        "gender": "Male",
+        "joining_date": "05 Nov 2020",
+        "amount": "$567",
+        "status": "Paid"
+    },
+    {
+        "id": 4,
+        "salary_id": "PRE1534",
+        "name": "Lois A",
+        "image": "avatar-05.jpg",
+        "gender": "Male",
+        "joining_date": "02 Oct 2020",
+        "amount": "$560",
+        "status": "Unpaid"
+    },
+    {
+        "id": 5,
+        "salary_id": "PRE2143",
+        "name": "Level Scott",
+        "image": "avatar-03.jpg",
+        "gender": "Male",
+        "joining_date": "04 Sept 2020",
+        "amount": "$378",
+        "status": "Paid"
+    },
+    {
+        "id": 6,
+        "salary_id": "PRE2153",
+        "name": "Calvin",
+        "image": "avatar-06.jpg",
+        "gender": "Male",
+        "joining_date": "28 Oct 2020",
+        "amount": "$236",
+        "status": "Unpaid"
+    },
+    {
+        "id": 7,
+        "salary_id": "PRE2209",
+        "name": "Aaliyah",
+        "image": "avatar-01.jpg",
+        "gender": "Female",
+        "joining_date": "17 Aug 2020",
+        "amount": "$320",
+        "status": "Paid"
+    },
+    {
+        "id": 8,
+        "salary_id": "PRE2213",
+        "name": "Malynne",
+        "image": "avatar-02.jpg",
+        "gender": "Female",
+        "joining_date": "05 Aug 2020",
+        "amount": "$536",
+        "status": "Paid"
+    },
+    {
+        "id": 9,
+        "salary_id": "PRE2345",
+        "name": "Kozma  Tatari",
+        "image": "avatar-09.jpg",
+        "gender": "Female",
+        "joining_date": "12 Nov 2020",
+        "amount": "$564",
+        "status": "Paid"
+    },
+    {
+        "id": 10,
+        "salary_id": "PRE2365",
+        "name": "John Chambers",
+        "image": "avatar-10.jpg",
+        "gender": "Male",
+        "joining_date": "15 Nov 2020",
+        "amount": "$234",
+        "status": "Paid"
+    },
+    {
+        "id": 11,
+        "salary_id": "PRE2431",
+        "name": "Minnie",
+        "image": "avatar-04.jpg",
+        "gender": "Female",
+        "joining_date": "17 Sept 2020",
+        "amount": "$246",
+        "status": "Unpaid"
+    }
+]

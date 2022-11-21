@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "exam_name": "Class Test",
+        "class": "10",
+        "subject": "English",
+        "start_time": "10:00 AM",
+        "end_time": "01:00 PM",
+        "date": "23 Apr 2020"
+    },
+    {
+        "id": 2,
+        "exam_name": "Class Test",
+        "class": "8",
+        "subject": "Science",
+        "start_time": "01:00 PM",
+        "end_time": "04:00 PM",
+        "date": "18 Sep 2020"
+    },
+    {
+        "id": 3,
+        "exam_name": "Class Test",
+        "class": "2",
+        "subject": "Biology",
+        "start_time": "10:00 AM",
+        "end_time": "01:00 PM",
+        "date": "15 Oct 2020"
+    },
+    {
+        "id": 4,
+        "exam_name": "Class Test",
+        "class": "12",
+        "subject": "Mathematics",
+        "start_time": "10:00 AM",
+        "end_time": "01:00 PM",
+        "date": "23 Apr 2020"
+    },
+    {
+        "id": 5,
+        "exam_name": "Half yearly",
+        "class": "1",
+        "subject": "Botony",
+        "start_time": "10:00 AM",
+        "end_time": "01:00 PM",
+        "date": "23 Apr 2020"
+    },
+    {
+        "id": 6,
+        "exam_name": "Half yearly",
+        "class": "6",
+        "subject": "Botony",
+        "start_time": "10:00 AM",
+        "end_time": "01:00 PM",
+        "date": "02 Jun 2020"
+    },
+    {
+        "id": 7,
+        "exam_name": "Quarterly",
+        "class": "9",
+        "subject": "Biology",
+        "start_time": "01:00 PM",
+        "end_time": "04:00 PM",
+        "date": "26 Nov 2020"
+    },
+    {
+        "id": 8,
+        "exam_name": "Quarterly",
+        "class": "7",
+        "subject": "History",
+        "start_time": "01:00 PM",
+        "end_time": "04:00 PM",
+        "date": "23 Jul 2020"
+    }
+]

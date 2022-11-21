@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "block": "A Block",
+        "room_no": "101",
+        "room_type": "Medium",
+        "no_of_beds": "6",
+        "cost_per_bed": "$10",
+        "availability": "Full"
+    },
+    {
+        "id": 2,
+        "block": "A Block",
+        "room_no": "101",
+        "room_type": "Medium",
+        "no_of_beds": "6",
+        "cost_per_bed": "$10",
+        "availability": "Available"
+    },
+    {
+        "id": 3,
+        "block": "A Block",
+        "room_no": "102",
+        "room_type": "Medium",
+        "no_of_beds": "6",
+        "cost_per_bed": "$10",
+        "availability": "Full"
+    },
+    {
+        "id": 4,
+        "block": "A Block",
+        "room_no": "107",
+        "room_type": "Medium",
+        "no_of_beds": "6",
+        "cost_per_bed": "$10",
+        "availability": "Available"
+    },
+    {
+        "id": 5,
+        "block": "A Block",
+        "room_no": "108",
+        "room_type": "Medium",
+        "no_of_beds": "6",
+        "cost_per_bed": "$10",
+        "availability": "Available"
+    },
+    {
+        "id": 6,
+        "block": "B Block",
+        "room_no": "104",
+        "room_type": "Big",
+        "no_of_beds": "8",
+        "cost_per_bed": "$10",
+        "availability": "Full"
+    },
+    {
+        "id": 7,
+        "block": "B Block",
+        "room_no": "102",
+        "room_type": "Medium",
+        "no_of_beds": "6",
+        "cost_per_bed": "$10",
+        "availability": "2 Available"
+    },
+    {
+        "id": 8,
+        "block": "B Block",
+        "room_no": "107",
+        "room_type": "Small",
+        "no_of_beds": "6",
+        "cost_per_bed": "$10",
+        "availability": "Available"
+    }
+]

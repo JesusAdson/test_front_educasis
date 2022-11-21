@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "subject_id": "PRE1534",
+        "subject_name": "Botony",
+        "class": "9"
+    },
+    {
+        "id": 2,
+        "subject_id": "PRE2143",
+        "subject_name": "Science",
+        "class": "3"
+    },
+    {
+        "id": 3,
+        "subject_id": "PRE2153",
+        "subject_name": "English",
+        "class": "4"
+    },
+    {
+        "id": 4,
+        "subject_id": "PRE2209",
+        "subject_name": "Mathematics",
+        "class": "5"
+    },
+    {
+        "id": 5,
+        "subject_id": "PRE2213",
+        "subject_name": "History",
+        "class": "6"
+    },
+    {
+        "id": 6,
+        "subject_id": "PRE2431",
+        "subject_name": "Geography",
+        "class": "8"
+    }
+]

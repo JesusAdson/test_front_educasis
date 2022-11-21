@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "student_id": "PRE1234",
+        "student_name": "Nathan Humphries",
+        "image": "avatar-10.jpg",
+        "class": "10 B",
+        "dob": "26 Apr 1994",
+        "parent_name": "Stephen Marley",
+        "mobile_number": "077 3499 9959",
+        "address": "86 Lamphey Road, Thelnetham" 
+    },
+    {
+        "id": 2,
+        "student_id": "PRE1252",
+        "student_name": "Joe Kelley",
+        "image": "avatar-06.jpg",
+        "class": "11 C",
+        "dob": "7 Oct 2000",
+        "parent_name": "Vincent Howard",
+        "mobile_number": "402 221 7523",
+        "address": "3979  Ashwood Drive, Omaha" 
+    },
+    {
+        "id": 3,
+        "student_id": "PRE1434",
+        "student_name": "Vincent",
+        "image": "avatar-07.jpg",
+        "class": "10 A",
+        "dob": "4 Jan 2002",
+        "parent_name": "Kelley Joe",
+        "mobile_number": "402 221 7523",
+        "address": "3979 Ashwood Drive, Omaha" 
+    },
+    {
+        "id": 4,
+        "student_id": "PRE1534",
+        "student_name": "Lois A",
+        "image": "avatar-04.jpg",
+        "class": "10 A",
+        "dob": "22 Jul 2006",
+        "parent_name": "Cleary Wong",
+        "mobile_number": "413 289 1314",
+        "address": "2844 Leverton Cove Road, Palmer"
+    },
+    {
+        "id": 5,
+        "student_id": "PRE2143",
+        "student_name": "Level Scott",
+        "image": "avatar-02.jpg",
+        "class": "10 A",
+        "dob": "12 Apr 2002",
+        "parent_name": "Jeffrey Scott",
+        "mobile_number": "026 7318 4366",
+        "address": "P.O. Box: 41, Gaborone"
+    },
+    {
+        "id": 6,
+        "student_id": "PRE2153",
+        "student_name": "Calvin",
+        "image": "avatar-05.jpg",
+        "class": "9 B",
+        "dob": "8 Dec 2003",
+        "parent_name": "Minnie J Shaffer",
+        "mobile_number": "701 753 3810",
+        "address": "1900 Hidden Meadow Drive, Crete"
+    },
+    {
+        "id": 7,
+        "student_id": "PRE2209",
+        "student_name": "Aaliyah",
+        "image": "avatar-01.jpg",
+        "class": "10 A",
+        "dob": "2 Feb 2002",
+        "parent_name": "Jeffrey Wong",
+        "mobile_number": "097 3584 5870",
+        "address": "911 Deer Ridge Drive,USA"
+    },
+    {
+        "id": 8,
+        "student_id": "PRE2213",
+        "student_name": "Malynne",
+        "image": "avatar-03.jpg",
+        "class": "8 A",
+        "dob": "3 Jun 2010",
+        "parent_name": "Fields Malynne",
+        "mobile_number": "242 362 3100",
+        "address": "Bacardi Rd P.O. Box N-4880, New Providence"
+    },
+    {
+        "id": 9,
+        "student_id": "PRE2345",
+        "student_name": "Kozma  Tatari",
+        "image": "avatar-08.jpg",
+        "class": "9 A",
+        "dob": "1 Feb 2006",
+        "parent_name": "Lombardi",
+        "mobile_number": "04 2239 968",
+        "address": "Rruga E Kavajes, Condor Center, Tirana"
+    },
+    {
+        "id": 10,
+        "student_id": "PRE2365",
+        "student_name": "John Chambers",
+        "image": "avatar-09.jpg",
+        "class": "11 B",
+        "dob": "13 Sept 2003",
+        "parent_name": "Wong Jeffrey",
+        "mobile_number": "870 663 2334",
+        "address": "4667 Sunset Drive, Pine Bluff"
+    },
+    {
+        "id": 11,
+        "student_id": "PRE2431",
+        "student_name": "Minnie",
+        "image": "avatar-03.jpg",
+        "class": "11 C",
+        "dob": "24 Feb 2000",
+        "parent_name": "J Shaffer",
+        "mobile_number": "952 512 4909",
+        "address": "4771 Oral Lake Road, Golden Valley"
+    }
+]

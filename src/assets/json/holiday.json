@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "holiday_id": "PRE2143",
+        "holiday_name": "Annual Day",
+        "Type": "College Holiday",
+        "start_date": "04 Sept 2020",
+        "end_date": "07 Sept 2020"
+    },
+    {
+        "id": 2,
+        "holiday_id": "PRE2143",
+        "holiday_name": "Annual Day",
+        "Type": "College Holiday",
+        "start_date": "04 Sept 2020",
+        "end_date": "07 Sept 2020"
+    },
+    {
+        "id": 3,
+        "holiday_id": "PRE2209",
+        "holiday_name": "Sports Day",
+        "Type": "College Holiday",
+        "start_date": "17 Aug 2020",
+        "end_date": "19 Aug 2020"
+    },
+    {
+        "id": 4,
+        "holiday_id": "PRE2209",
+        "holiday_name": "Sports Day",
+        "Type": "College Holiday",
+        "start_date": "17 Aug 2020",
+        "end_date": "19 Aug 2020"
+    },
+    {
+        "id": 5,
+        "holiday_id": "PRE2213",
+        "holiday_name": "Memorial Day",
+        "Type": "Public Holiday",
+        "start_date": "05 Aug 2020",
+        "end_date": "06 Aug 2020"
+    },
+    {
+        "id": 6,
+        "holiday_id": "PRE2213",
+        "holiday_name": "Memorial Day",
+        "Type": "Public Holiday",
+        "start_date": "05 Aug 2020",
+        "end_date": "06 Aug 2020"
+    },
+    {
+        "id": 7,
+        "holiday_id": "PRE2431",
+        "holiday_name": "Exam Holiday",
+        "Type": "Semester Leave",
+        "start_date": "17 Sept 2020",
+        "end_date": "30 Sept 2020"
+    },
+    {
+        "id": 8,
+        "holiday_id": "PRE2431",
+        "holiday_name": "Exam Holiday",
+        "Type": "Semester Leave",
+        "start_date": "17 Sept 2020",
+        "end_date": "30 Sept 2020"
+    }
+]

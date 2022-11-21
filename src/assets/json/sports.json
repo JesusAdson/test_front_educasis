@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "sport_id": "PRE1534",
+        "name": "Hockey",
+        "Coach": "Thomas",
+        "started_year": "2005"
+    },
+    {
+        "id": 2,
+        "sport_id": "PRE2009",
+        "name": "Carrom",
+        "Coach": "Joseph",
+        "started_year": "2002"
+    },
+    {
+        "id": 3,
+        "sport_id": "PRE2143",
+        "name": "Volleyball",
+        "Coach": "Thomas",
+        "started_year": "2006"
+    },
+    {
+        "id": 4,
+        "sport_id": "PRE2153",
+        "name": "Volleyball",
+        "Coach": "Joseph",
+        "started_year": "2003"
+    },
+    {
+        "id": 5,
+        "sport_id": "PRE2209",
+        "name": "Cricket",
+        "Coach": "Jenny",
+        "started_year": "2002"
+    },
+    {
+        "id": 6,
+        "sport_id": "PRE2213",
+        "name": "Basketball",
+        "Coach": "Jenny",
+        "started_year": "2002"
+    },
+    {
+        "id": 7,
+        "sport_id": "PRE2309",
+        "name": "Cricket",
+        "Coach": "Jenny",
+        "started_year": "2002"
+    }
+]
